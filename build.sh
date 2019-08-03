@@ -70,9 +70,10 @@ for FILE in \
        "$WINDIVERT/x86/WinDivert32.sys" \
        "$WINDIVERT/x86/WinDivert.dll" \
        "Tor/libeay32.dll" \
-       "Tor/libevent-2-0-5.dll" \
-       "Tor/libevent_core-2-0-5.dll" \
-       "Tor/libevent_extra-2-0-5.dll" \
+       "Tor/libevent-2-1-6.dll" \
+       "Tor/libevent_core-2-1-6.dll" \
+       "Tor/libevent_extra-2-1-6.dll" \
+       "Tor/libwinpthread-1.dll" \
        "Tor/libgcc_s_sjlj-1.dll" \
        "Tor/libssp-0.dll" \
        "Tor/ssleay32.dll" \

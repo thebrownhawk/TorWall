@@ -58,7 +58,7 @@ static HWND button = NULL;
 static HWND status_bar = NULL;
 static HWND status_label = NULL;
 
-// Tor state:
+// Tor state:s
 static bool state = false;
 
 // Options:
@@ -479,6 +479,7 @@ static DWORD WINAPI tor_thread(LPVOID arg)
         }
 
         status("%s", msg);
+        start_tor();
     }
 }
 

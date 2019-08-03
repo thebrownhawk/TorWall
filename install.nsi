@@ -50,9 +50,10 @@ Section ""
 
     ; Tor files:
     File "libeay32.dll"
-    File "libevent-2-0-5.dll"
-    File "libevent_core-2-0-5.dll"
-    File "libevent_extra-2-0-5.dll"
+    File "libevent-2-1-6.dll"
+    File "libevent_core-2-1-6.dll"
+    File "libevent_extra-2-1-6.dll"
+    File "libwinpthread-1.dll"
     File "libgcc_s_sjlj-1.dll"
     File "libssp-0.dll"
     File "ssleay32.dll"
