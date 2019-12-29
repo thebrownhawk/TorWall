@@ -114,3 +114,4 @@ link](https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxyLeaks)
 for more information.  Tallow *should not be relied on for strong anonymity*
 unless you know what you are doing.
 
+# TorWall
